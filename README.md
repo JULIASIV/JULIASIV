@@ -1,6 +1,6 @@
 - Thanks for stopping by!# Hi there! 👋
      I’m @JULIASIV, I'm a developer with a passion for integrating diverse fields into innovative solutions.
-- 👀 I’m  a self tought devloper who is interested in AI /Machine learning/, nano tech and software developnent 
+- 👀 I’m  a self tought devloper who is interested in AI /Machine learning/, nano tech and cybersecurity tools/software/ developnent 
 - 🌱 I’m currently persuing studies in material ScE. and computer sc.
 - 💞️ what I do - I love combining my programming skills with emerging technologies particularly nanotechnology and AI to explore the 
     potential of smart materials in creating groundbreaking applications.
