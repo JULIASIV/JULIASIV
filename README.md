@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JuliaSIV!
+# 👋 Hi, I'm JULIASIV!
 
 ### Building at the Nexus of AI, Nanotechnology & Smart Materials
 
